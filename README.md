@@ -3,7 +3,7 @@ Professional profile and technical roadmap.
 # Hi there, I'm Darius!
 ### Aspiring Cloud & DevOps Engineer | ASIR Student (EQF-5)
 
-I am a first-year IT Network Systems Administration (ASIR) student based in Madrid, with a strong passion for automation and cloud infrastructure. 
+I am a second-year IT Network Systems Administration (ASIR) student based in Madrid, with a strong passion for automation and cloud infrastructure. 
 I am a proactive learner and a dedicated team player, currently focusing on bridging the gap between traditional systems administration and modern DevOps practices.
 
 ### Tech Stack & Tools
