@@ -13,7 +13,7 @@ I am a proactive learner and a dedicated team player, currently focusing on brid
 - **Operating Systems:** Linux (Ubuntu/Debian), Windows Server
 - **Networking:** Routing, Switching, Cisco CCNA Track
 
-### Learning Roadmap (2025-2026)
+### Learning Roadmap (2026-2027)
 - [ ] AWS Certified Cloud Practitioner
 - [ ] AWS Certified Solutions Architect – Associate
 - [ ] HashiCorp Certified: Terraform Associate
