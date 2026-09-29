@@ -1,23 +1,16 @@
-# README
-Professional profile and technical roadmap.
-# Hi there, I'm Darius!
-### Aspiring Cloud & DevOps Engineer | ASIR Student (EQF-5)
+# Darius Costea
+### Web Application Penetration Tester & Cloud Infrastructure Student
 
-I am a second-year IT Network Systems Administration (ASIR) student based in Madrid, with a strong passion for automation and cloud infrastructure. 
-I am a proactive learner and a dedicated team player, currently focusing on bridging the gap between traditional systems administration and modern DevOps practices.
+I am a specialized IT student focusing on Offensive Security and DevSecOps architectures. My technical profile bridges the gap between infrastructure deployment and web exploitation, allowing for a comprehensive understanding of the systems I audit.
 
-### Tech Stack & Tools
-- **Cloud:** AWS (Active Learner)
-- **Infrastructure as Code:** Terraform
-- **Containers:** Docker
-- **Operating Systems:** Linux (Ubuntu/Debian), Windows Server
-- **Networking:** Routing, Switching, Cisco CCNA Track
+## Current Operations & Focus
+*   **Certifications:** Actively preparing for the **Burp Suite Certified Practitioner (BSCP)** and **HTB Certified Web Exploitation Specialist (CWES)**.
+*   **Research & Development:** Architecting an automated DevSecOps laboratory deployed entirely on AWS via Terraform. The infrastructure orchestrates automated web attacks, SIEM telemetry correlation (Wazuh), and real-time AI-driven mitigation (Ollama).
 
-### Learning Roadmap (2026-2027)
-- [ ] AWS Certified Cloud Practitioner
-- [ ] AWS Certified Solutions Architect – Associate
-- [ ] HashiCorp Certified: Terraform Associate
-- [ ] Advanced Bash & Python Scripting for Automation
+## Technical Stack
+*   **Offensive Security:** Burp Suite, Web Application Penetration Testing, OWASP Top 10, WAF Evasion.
+*   **Infrastructure as Code (IaC) & Cloud:** AWS (EC2, VPC, IAM), Terraform, Docker.
+*   **Systems & Automation:** GNU/Linux Advanced Administration, Python, Bash Scripting.
 
 ### Languages
 - **Spanish:** Native
